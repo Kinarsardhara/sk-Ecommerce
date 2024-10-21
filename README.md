@@ -26,4 +26,4 @@ Visit the live site: [Live Demo](https://your-sk-ecomm-url.com)
 
 ![Sk Ecomm Application](https://res.cloudinary.com/dnhf2dbis/image/upload/v1729007658/Screenshot_2024-10-16_212234_df3mg9.png)
 ![Sk Ecomm Application](https://res.cloudinary.com/dnhf2dbis/image/upload/v1729529305/Screenshot_2024-10-22_221703_oloold.png)
-![Sk Ecomm Application]([https://res.cloudinary.com/dnhf2dbis/image/upload/v1729007658/Screenshot_2024-10-16_212234_df3mg9.png](https://res.cloudinary.com/dnhf2dbis/image/upload/v1729529305/Screenshot_2024-10-22_221834_jfeu3e.png))
+![Sk Ecomm Application](https://res.cloudinary.com/dnhf2dbis/image/upload/v1729529305/Screenshot_2024-10-22_221834_jfeu3e.png)
