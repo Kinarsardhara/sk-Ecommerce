@@ -3,7 +3,7 @@
 An advanced e-commerce platform created using React and Node Js.
 
 ## Live Demo
-Visit the live site: [Live Demo](https://your-sk-ecomm-url.com)
+Visit the live site: [Live Demo](https://sk-ecomm.netlify.app)
 
 ## Demo Login Credentials
 - **Email:** kinarsardhara@gmail.com
